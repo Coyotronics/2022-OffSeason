@@ -1,6 +1,6 @@
-import java.util.*;
+import java.util.Scanner;
 
-class HrishikeshS 
+class HrishikeshSA1A
 {
     public static void main(String[] args)
     {
